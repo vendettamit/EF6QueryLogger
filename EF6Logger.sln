@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF6Logger", "EF6Logger\EF6Logger.csproj", "{B5A46A04-EE30-4F43-AFD0-D34EF6E61D5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF6LoggerConsoleTestApp", "EF6Logger.ConsoleApp\EF6LoggerConsoleTestApp.csproj", "{FFE1BA4B-4919-4D18-91F9-305488A390EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		NET45|Any CPU = NET45|Any CPU
+		NET46|Any CPU = NET46|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5A46A04-EE30-4F43-AFD0-D34EF6E61D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A46A04-EE30-4F43-AFD0-D34EF6E61D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A46A04-EE30-4F43-AFD0-D34EF6E61D5B}.NET45|Any CPU.ActiveCfg = NET45|Any CPU
+		{B5A46A04-EE30-4F43-AFD0-D34EF6E61D5B}.NET45|Any CPU.Build.0 = NET45|Any CPU
+		{B5A46A04-EE30-4F43-AFD0-D34EF6E61D5B}.NET46|Any CPU.ActiveCfg = NET46|Any CPU
+		{B5A46A04-EE30-4F43-AFD0-D34EF6E61D5B}.NET46|Any CPU.Build.0 = NET46|Any CPU
+		{B5A46A04-EE30-4F43-AFD0-D34EF6E61D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A46A04-EE30-4F43-AFD0-D34EF6E61D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFE1BA4B-4919-4D18-91F9-305488A390EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE1BA4B-4919-4D18-91F9-305488A390EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE1BA4B-4919-4D18-91F9-305488A390EC}.NET45|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE1BA4B-4919-4D18-91F9-305488A390EC}.NET45|Any CPU.Build.0 = Release|Any CPU
+		{FFE1BA4B-4919-4D18-91F9-305488A390EC}.NET46|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE1BA4B-4919-4D18-91F9-305488A390EC}.NET46|Any CPU.Build.0 = Release|Any CPU
+		{FFE1BA4B-4919-4D18-91F9-305488A390EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE1BA4B-4919-4D18-91F9-305488A390EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
